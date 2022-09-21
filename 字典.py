@@ -49,6 +49,11 @@ heros = {'及时雨': '宋江', '玉麒麟': '卢俊义', '花和尚': '鲁达'}
 # print(key, value, sep='+')
 
 # heros = {'及时雨': '宋江', '玉麒麟': '卢俊义', '花和尚': '鲁达'}
+
+
+
+
+
 # print(heros)
 # new_heros = heros.copy()
 # print(new_heros)
