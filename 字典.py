@@ -46,6 +46,9 @@ heros = {'及时雨': '宋江', '玉麒麟': '卢俊义', '花和尚': '鲁达'}
 # list3 = list(heros.items())
 # print(list3)
 # key, value = list3[1]
+
+
+
 # print(key, value, sep='+')
 
 # heros = {'及时雨': '宋江', '玉麒麟': '卢俊义', '花和尚': '鲁达'}
